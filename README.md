@@ -11,8 +11,8 @@ For this project, I have used Nvidia's [StyleGAN2 ADA model](https://arxiv.org/p
 ## Steps to generate Portraits
 
 - Firstly download the pre-trained models:
-  - [Model Trained from scratch]()
-  - [Transfer Learning]()
+  - [Model Trained from scratch](https://drive.google.com/file/d/10eWx_yNfMcjTrmEvRA3it2kL0WBXtDUJ/view?usp=sharing)
+  - [Transfer Learning](https://drive.google.com/file/d/1-Cl036bpMTkrqEfEgNlihb6z_ClOHXdn/view?usp=sharing)
 
 - Once you'd download the trained models, follow the generate portrait notebook(NOTE: You will need a access to GPU to generate the portraits.)
 
